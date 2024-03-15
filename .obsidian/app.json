@@ -5,5 +5,5 @@
   "autoConvertHtml": false,
   "promptDelete": false,
   "showUnsupportedFiles": false,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "relative"
 }

@@ -33,6 +33,28 @@
             "id": "404b7af6a29e6347",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "images/image1.png"
+              }
+            }
+          },
+          {
+            "id": "cb198111a09687e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-03-15-first.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4468932fe0fe258d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "_posts/2024-03-15-first.md",
@@ -42,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -169,20 +191,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "404b7af6a29e6347",
+  "active": "4468932fe0fe258d",
   "lastOpenFiles": [
-    "images/Pasted image 20240315192248.png",
-    "images/image1.png",
+    "images/Pasted image 20240315192505.png",
     "_posts/2024-03-15-first.md",
     "images/Pasted image 20240315191717.png",
+    "images/Pasted image 20240315192248.png",
+    "images/Pasted image 20240315192443.png",
     "images/Pasted image 20240315192224.png",
+    "images/image1.png",
+    "images/image1 1.png",
+    "images/Pasted image 20240315192519.png",
     "images/2024-03-15-first.jpg",
-    "images/Pasted image 20240315184032.png",
-    "images/Pasted image 20240315191148.png",
-    "images/Pasted image 20240315184501.png",
-    "images/Pasted image 20240315190450.png",
-    "images/Pasted image 20240315184512.png",
-    "images/Pasted image 20240315185524.png",
+    "images/Pasted image 20240315192433.png",
     "_posts/images",
     "CHANGELOG.md",
     "images"
