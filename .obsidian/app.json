@@ -2,5 +2,8 @@
   "attachmentFolderPath": "images",
   "useMarkdownLinks": true,
   "showLineNumber": true,
-  "autoConvertHtml": false
+  "autoConvertHtml": false,
+  "promptDelete": false,
+  "showUnsupportedFiles": false,
+  "newLinkFormat": "absolute"
 }
