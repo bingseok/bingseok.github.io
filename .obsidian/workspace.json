@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7d4140cf59ae1e04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-03-15-first.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,11 +159,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "dcce001ee9ce4db4",
+  "active": "7d4140cf59ae1e04",
   "lastOpenFiles": [
-    "images/Pasted image 20240315185524.png",
+    "images/Pasted image 20240315190450.png",
     "images/Pasted image 20240315184512.png",
     "_posts/2024-03-15-first.md",
+    "images/Pasted image 20240315185524.png",
     "images/Pasted image 20240315183957.png",
     "images/Pasted image 20240315184501.png",
     "images/Pasted image 20240315184032.png",
