@@ -1,3 +1,6 @@
 {
-  "accentColor": ""
+  "accentColor": "#aa88aa",
+  "interfaceFontFamily": "RIDIBatang",
+  "textFontFamily": "RIDIBatang",
+  "cssTheme": "Minimal"
 }
