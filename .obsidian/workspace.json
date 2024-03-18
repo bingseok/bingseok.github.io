@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-18-코틀린 기본 문법 정리 2.md",
+                "file": "_posts/2024-03-18-코틀린 기본 문법 정리 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-18-코틀린 기본 문법 정리 2.md",
+                "file": "_posts/2024-03-18-코틀린 기본 문법 정리 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-18-코틀린 기본 문법 정리 2.md",
+                "file": "_posts/2024-03-18-코틀린 기본 문법 정리 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-18-코틀린 기본 문법 정리 2.md"
+                "file": "_posts/2024-03-18-코틀린 기본 문법 정리 2.md"
               }
             }
           }
@@ -197,10 +197,14 @@
   },
   "active": "f5c867b1d5a2049d",
   "lastOpenFiles": [
-    "_posts/2024-03-18-코틀린 문법 1.md",
+    "_posts/2024-03-18-코틀린 기본 문법 정리 1.md",
+    "_site/kotlin/코틀린-기본-문법-정리-1/index.html",
+    "_site/kotlin/코틀린-기본-문법-정리-1",
+    "_posts/2024-03-18-코틀린 기본 문법 정리 2.md",
+    "_site/kotlin/코틀린-기본-문법-정리-2/index.html",
+    "_site/kotlin/코틀린-기본-문법-정리-2",
     "코틀린 문젖.md",
     "_pages/category-archive.md",
-    "2024-03-18-코틀린 기본 문법 정리 2.md",
     "_site/2024-03-18-코틀린 기본 문법 정리 2/index.html",
     "_site/2024-03-18-코틀린 기본 문법 정리 2",
     "_site/2024-03-18-코틀린 기본 문법 정리 2.md",
@@ -211,12 +215,8 @@
     "_site/무제 파일/index.html",
     "_site/무제 파일",
     "_posts/2024-03-15-first.md",
-    "_site/template/YYYY-MM-DD/index.html",
-    "_site/template/YYYY-MM-DD",
     "_site/template/YYYY-MM-DD.md",
     "_site/template/무제 파일.md",
-    "_site/template",
-    "template",
     "_site/_pages/search.md",
     "_pages/search.md",
     "_site/_pages/404.md",
