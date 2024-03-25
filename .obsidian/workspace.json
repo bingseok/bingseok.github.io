@@ -97,9 +97,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-03-25-코틀린 강의 7.md",
+                "file": "_posts/2024-03-25-코틀린-강의-8.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -154,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d3265f068924785f",
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-03-25-코틀린 강의 7.md",
+                "file": "_posts/2024-03-25-코틀린-강의-8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-03-25-코틀린 강의 7.md",
+                "file": "_posts/2024-03-25-코틀린-강의-8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-03-25-코틀린 강의 7.md"
+                "file": "_posts/2024-03-25-코틀린-강의-8.md"
               }
             }
           }
@@ -233,31 +233,43 @@
   },
   "active": "47dcd4847b694589",
   "lastOpenFiles": [
-    "_posts/2024-03-25-코틀린 강의 6.md",
-    "_posts/2024-03-25-코틀린 강의 5.md",
-    "_posts/2024-03-25-코틀린 강의 4.md",
-    "_posts/2024-03-23-코틀린 강의 3.md",
-    "_posts/2024-03-23-코틀린 강의 2.md",
+    "images/listview.png",
+    "_posts/2024-03-25-코틀린-강의-8.md",
     "_posts/2024-03-25-코틀린 강의 7.md",
+    "_site/images/listview.png",
+    "images/listview.jpg",
+    "_site/images/image1.png",
+    "_posts/2024-03-15-first.md",
+    "_site/images/listview.jpg",
+    "_posts/2024-03-23-코틀린 강의 2.md",
+    "_posts/2024-03-25-코틀린 강의 6.md",
+    "_site/kotlin/코틀린-강의-8/index.html",
+    "_site/kotlin/코틀린-강의-8",
+    "_posts/2024-03-23-코틀린 강의 3.md",
+    "_site/코틀린-강의-8/index.html",
+    "_site/코틀린-강의-8",
+    "무제 파일 1.md",
+    "_site/images/image1.jpg",
+    "images/Pasted image 20240315192505.png",
+    "images/Pasted image 20240315192443.png",
+    "images/Pasted image 20240315192433.png",
+    "images/Pasted image 20240315192224.png",
+    "_site/2024-03-25-코틀린 강의 8.md",
+    "_posts/2024-03-25-코틀린 강의 4.md",
+    "_site/무제 파일 1.md",
+    "_posts/2024-03-25-코틀린 강의 5.md",
+    "_site/kotlin/코틀린-강의-7/index.html",
+    "_site/kotlin/코틀린-강의-7",
+    "_site/kotlin/코틀린-강의-6/index.html",
+    "_site/kotlin/코틀린-강의-6",
+    "_site/kotlin/코틀린-강의-5/index.html",
+    "_site/kotlin/코틀린-강의-5",
     "_posts/2024-03-23-코틀린 강의 1.md",
     "_posts/2024-03-18-코틀린 기본 문법 정리 3.md",
     "_posts/2024-03-18-코틀린 기본 문법 정리 2.md",
     "template/YYYY-MM-DD.md",
-    "_posts/2024-03-15-first.md",
     "_posts/2024-03-18-코틀린 기본 문법 정리 1.md",
-    "_site/kotlin/코틀린-기본-문법-정리-3/index.html",
-    "_site/kotlin/코틀린-기본-문법-정리-3",
-    "_site/2024-03-18 코틀린 기본 문법 정리 3/index.html",
-    "_site/2024-03-18 코틀린 기본 문법 정리 3",
-    "_site/무제 파일 1/index.html",
-    "_site/무제 파일 1",
-    "_site/무제 파일 1.md",
-    "무제 파일.md",
     "_site/무제 파일.md",
-    "_site/kotlin/코틀린-기본-문법-정리-1/index.html",
-    "_site/kotlin/코틀린-기본-문법-정리-1",
-    "_site/kotlin/코틀린-기본-문법-정리-2/index.html",
-    "_site/kotlin/코틀린-기본-문법-정리-2",
     "코틀린 문젖.md",
     "_pages/category-archive.md",
     "_site/2024-03-18-코틀린 기본 문법 정리 2.md",
@@ -265,19 +277,6 @@
     "_site/template/무제 파일.md",
     "_site/_pages/search.md",
     "_pages/search.md",
-    "_site/_pages/404.md",
-    "_pages/404.md",
-    "_site/_pages/tag-archive.md",
-    "_pages/tag-archive.md",
-    "_site/assets/images/soap-bubble-1986657.jpg",
-    "assets/images/soap-bubble-1986657.jpg",
-    "_site/assets/images/github_image.jpg",
-    "assets/images/github_image.jpg",
-    "_site/images/Pasted image 20240315192224.png",
-    "_site/images/Pasted image 20240315192519.png",
-    "_site/images/Pasted image 20240315192505.png",
-    "_site/images/Pasted image 20240315191717.png",
-    "_site/images/Pasted image 20240315192433.png",
-    "_site/images/Pasted image 20240315192443.png"
+    "_site/_pages/404.md"
   ]
 }
